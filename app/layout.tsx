@@ -14,8 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: 'Myo Myat Aung - Mobile Full-Stack Developer',
+	// My long description for mobile full-stack developer
 	description:
-		'Welcome to my portfolio! I am a passionate backend developer specializing in building scalable server architectures, robust APIs, and high-performance distributed systems. With expertise in cloud infrastructure and database optimization, I create efficient and reliable backend solutions.',
+		'Welcome to my portfolio! I am a mobile full-stack developer with a passion for creating seamless user experiences and robust backend systems. Explore my portfolio to see my work in action.',
 	keywords: [
 		'Backend Developer',
 		'Software Engineer',
@@ -33,13 +34,14 @@ export const metadata: Metadata = {
 		'System Design',
 		'Backend Architecture',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: 'Myo Myat Aung' }],
+	creator: 'Myo Myat Aung',
 	openGraph: {
-		title: '[Your Name] - Backend Developer Portfolio',
-		description: 'Passionate backend developer crafting scalable and efficient server architectures. Explore my projects and technical expertise.',
-		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		title: 'Myo Myat Aung - Mobile Full-Stack Developer Portfolio',
+		// My short bio for mobile full-stack developer
+		description: 'I am a mobile full-stack developer with a passion for creating seamless user experiences and robust backend systems. Explore my portfolio to see my work in action.',
+		url: 'https://myomyataung-portfolio.vercel.app/',
+		siteName: 'Myo Myat Aung - Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
@@ -50,13 +52,6 @@ export const metadata: Metadata = {
 		],
 		locale: 'en_US',
 		type: 'website',
-	},
-	twitter: {
-		card: 'summary_large_image',
-		title: '[Your Name] - Backend Developer',
-		description: 'Passionate backend developer crafting scalable and efficient server architectures. Explore my projects and technical expertise.',
-		creator: '@yourusername',
-		images: ['/og-image.jpg'],
 	},
 	robots: {
 		index: true,
