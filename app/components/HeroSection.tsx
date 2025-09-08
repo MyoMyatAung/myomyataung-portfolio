@@ -24,7 +24,7 @@ export default function HeroSection() {
 					</div>
 					<div className="font-mono">
 						<p className="text-green-500">$ whoami</p>
-						<h1 className="text-4xl md:text-5xl font-bold mt-2 mb-4">Myo Myat Aung (Fonsi)</h1>
+						<h1 className="text-4xl md:text-5xl font-bold mt-2 mb-4">Myo Myat Thu (Fonsi)</h1>
 						<p className="text-gray-400 mb-2">Mobile Full-Stack Engineer</p>
 						<p className="text-green-500">$ skills</p>
 						<div className="flex flex-wrap gap-2 mt-2">
