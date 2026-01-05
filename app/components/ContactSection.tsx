@@ -33,7 +33,7 @@ export default function ContactSection() {
 									/>
 									<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
 								</svg>
-								<span>Bangkok, Thailand</span>
+								<span>Da Nang, Vietnam</span>
 							</div>
 							<p className="text-green-500 mt-8 mb-2">$ contact --email</p>
 							<motion.a
@@ -45,7 +45,7 @@ export default function ContactSection() {
 							</motion.a>
 							<p className="text-green-500 mt-8 mb-2">$ cat myomyataung_resume.pdf</p>
 							<motion.a
-								href="https://drive.google.com/file/d/1epHn6It7OEsg25D5nWIk9hTXU1lQu03Q/view?usp=sharing"
+								href="https://drive.google.com/file/d/1BwD3dK0CMfEOr4-83kKgfVDc1fcxLmUM/view?usp=sharing"
 								target="_blank"
 								rel="noopener noreferrer"
 								whileHover={{ scale: 1.02 }}
@@ -103,7 +103,7 @@ export default function ContactSection() {
 									</div>
 									<div>
 										<p className="font-semibold text-gray-200">WhatsApp</p>
-										<p className="text-sm text-gray-400">+66973541807</p>
+										<p className="text-sm text-gray-400">+84353063620</p>
 									</div>
 								</motion.a>
 							</div>
